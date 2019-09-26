@@ -77,3 +77,5 @@ Issues arising from this type of problem will be ignored.
 
 --------------------------------------------------------------------------------
 ######################    END OF BLEND SWAP LICENSE.txt    #####################
+
+Modified by konsumer to work better in Blender 2.8, and work as a general template for blare-stew stuff.
